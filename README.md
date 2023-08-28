@@ -1,1 +1,1 @@
-# e-commerce-website
+# Lifestyle-Store
